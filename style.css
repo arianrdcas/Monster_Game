@@ -73,13 +73,12 @@ input:checked + label{
 }
 
 .boton-de-ataque {
-  display: flex;
   background-color: #11468f;
   padding: 10px;
   box-sizing: border-box;
   border-radius: 20px;
   border-color: transparent;
-  width: 180px;
+  width: 80px;
   color: white;
   font-family: "Poppins", sans-serif;
 }
@@ -115,11 +114,20 @@ input:checked + label{
   margin-bottom: 0;
 }
 
-
 .ataques-jugador, .ataques-enemigo {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+#ver-mapa{
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#mapa {
+  border: 2px solid white;
 }
 
 @media (max-width:360px){
