@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "assets",
+		"path": "C:/Users/yni6c/Downloads/curso-programacion-basica-35-assets-mokepones/curso-programacion-basica-35-assets-mokepones/programar/mokepon/assets"
+	},
+	{
+		"name": "Mokepon",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Mokepon"
+  }
+}
